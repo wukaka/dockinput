@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "com.nbd.dockinput.ncm.config.JwtProperties",
+      "sourceType": "com.nbd.dockinput.ncm.config.JwtProperties"
+    },
+    {
+      "name": "jwt.cert-info",
+      "type": "com.nbd.dockinput.ncm.config.JwtProperties$CertInfo",
+      "sourceType": "com.nbd.dockinput.ncm.config.JwtProperties"
+    },
+    {
+      "name": "jwt.claims",
+      "type": "com.nbd.dockinput.ncm.config.JwtProperties$Claims",
+      "sourceType": "com.nbd.dockinput.ncm.config.JwtProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.cert-info.public-key-location",
+      "type": "java.lang.String",
+      "sourceType": "com.nbd.dockinput.ncm.config.JwtProperties$CertInfo"
+    },
+    {
+      "name": "jwt.claims.issuer",
+      "type": "java.lang.String",
+      "sourceType": "com.nbd.dockinput.ncm.config.JwtProperties$Claims"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,4 @@
+com/nbd/dockinput/auth/client/AuthClientApplication.class
+com/nbd/dockinput/auth/client/controller/ResourceController.class
+com/nbd/dockinput/auth/client/controller/IndexController.class
+com/nbd/dockinput/auth/client/config/SecurityConfig.class

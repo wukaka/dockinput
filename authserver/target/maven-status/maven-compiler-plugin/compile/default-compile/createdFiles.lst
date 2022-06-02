@@ -1,0 +1,4 @@
+com/nbd/dockinput/auth/server/endpoint/EndPointController.class
+com/nbd/dockinput/auth/server/config/AuthorizationServerConfig.class
+com/nbd/dockinput/auth/server/config/DefaultSecurityConfig.class
+com/nbd/dockinput/auth/server/AuthServerApplication.class
